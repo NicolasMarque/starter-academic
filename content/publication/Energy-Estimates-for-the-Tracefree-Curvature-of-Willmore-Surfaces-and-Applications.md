@@ -1,5 +1,0 @@
-title="Energy Estimates for the Tracefree Curvature of Willmore Surfaces and Applications"
-date="2020-09-21"
-publication_types="3"
-publication="" 
-abstract=""
