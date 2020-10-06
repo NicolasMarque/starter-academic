@@ -18,7 +18,7 @@ authors = ["Yann Bernard", "Paul Laurain", "**Nicolas Marque**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Access."
+#publication = "IEEE Access."
 #publication_short = "ISBI"
 
 # Abstract and optional shortened version.
