@@ -1,10 +1,10 @@
 +++
-title = "This is just a try, do not look at it"
-date = "2019-09-09"
+title = "Energy Estimates for the Tracefree Curvature of Willmore Surfaces and Applications"
+date = "2020-09-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["**Nabila Abraham**", "Naimul Mefraz Khan"]
+authors = ["Yann Bernard", "Paul Laurain", "**Nicolas Marque**"]
 
 # Publication type.
 # Legend:
@@ -25,7 +25,7 @@ publication = "IEEE Access."
 
 
 
-abstract = "We explore the use of the Focal Tversky Loss function "
+abstract = ""
 
 # Featured image thumbnail (optional)
 #image_preview = "static/img/ftl.png"
@@ -39,9 +39,9 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore-ieee-org.ezproxy.lib.ryerson.ca/document/8727911"
+url_pdf = "https://arxiv.org/pdf/2009.10180.pdf"
 url_preprint = ""
-url_code = "https://github.com/nabsabraham/alzheimers"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
