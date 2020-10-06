@@ -71,4 +71,6 @@ user_groups:
 ---
 
 
-I am a postdoctoral researcher at the Institut für Mathematik of Potsdam University, in the PDE team led by Prof. Dr. [Jan Metzger](https://www.math.uni-potsdam.de/professuren/pde/personen/prof-dr-jan-metzger/). My PhD dealt with the compactness of Willmore surfaces and was done under the supervision of [Paul Laurain](https://paullaurain.weebly.com/#). The defense took place in December 2019 in the Université de Paris.
+I am a postdoctoral researcher at the Institut für Mathematik of Potsdam University, in the PDE team led by Prof. Dr. [Jan Metzger](https://www.math.uni-potsdam.de/professuren/pde/personen/prof-dr-jan-metzger/). 
+
+My PhD dealt with the compactness of Willmore surfaces and was done under the supervision of [Paul Laurain](https://paullaurain.weebly.com/#). The defense took place in December 2019 in the Université de Paris.
