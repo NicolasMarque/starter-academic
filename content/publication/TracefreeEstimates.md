@@ -4,7 +4,7 @@ date = "2020-09-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Yann Bernard", "Paul Laurain", "**Nicolas Marque**"]
+authors = ["Yann Bernard", "Paul Laurain", "Nicolas Marque"]
 
 # Publication type.
 # Legend:
