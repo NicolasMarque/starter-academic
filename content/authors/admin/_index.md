@@ -39,18 +39,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+#- icon: envelope
+ # icon_pack: fas
+ # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+ # icon_pack: fab
+  #link: https://twitter.com/GeorgeCushen
+- icon: researchgate
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.researchgate.net/profile/Nicolas_Marque
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/search/?searchtype=author&query=Marque%2C+N
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a postdoctoral researcher at the Institut für Mathematik of Potsdam University, in the PDE team led by Prof. Dr. [Jan Metzger](https://www.math.uni-potsdam.de/professuren/pde/personen/prof-dr-jan-metzger/). My PhD dealt with the compactness of Willmore surfaces and was done under the supervision of [Paul Laurain](https://paullaurain.weebly.com/#). The defense took place in December 2019 in the Université de Paris.
