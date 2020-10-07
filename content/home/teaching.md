@@ -67,14 +67,13 @@ subtitle = ""
  css_class = ""
 +++
 
-Past Teachings at Potsdam University:
-<h4> Department of Mathematics </h4>
+
+<h4> Past Teachings at Potsdam University: </h4>
 + PDE   *(Summer 2020)*
-  * PDE for Master 2 students, coursestutoring.
+  * PDE for Master 2 students, tutoring.
  
 
-Past Teachings at Université de Paris:
-<h4> Department of Mathematics </h4>
+<h4> Past Teachings at Université de Paris: </h4>
 
 + MRM1   *(Fall 2019)*
   * Mathematics and logic for 1st year students, courses and tutoring.
