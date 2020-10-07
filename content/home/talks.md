@@ -90,8 +90,8 @@ subtitle = ""
      * On the Compactness of Willmore Immersions.
 
 + Speaker at the *1st Joint Meeting Brazil-France in Mathematics* in *Rio de Janeiro* *(July 2019)*
-  *An exploration of Willmore Bubbling.
+               *An exploration of Willmore Bubbling.
   
 + Speaker for the *Geometry Seminar* in *Fortaleza* *(July 2019)*
-  *An exploration of Willmore Bubbling.
+              *An exploration of Willmore Bubbling.
 
