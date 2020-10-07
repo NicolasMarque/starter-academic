@@ -39,7 +39,7 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.researchgate.net/profile/Nicolas_Marque/publication/344508458_Moduli_Spaces_of_Willmore_Immersions/links/5f7d6cdc458515b7cf6c671a/Moduli-Spaces-of-Willmore-Immersions.pdf?_sg%5B0%5D=QOzKNkpvfCPXNeJrog8uXGjZvUNikjpqlWYWMcVuhZH6y1Zle_MFDCBkATblXqrVJ6LwUeH3mxolaLzGK-ryGw.mBu0kW5356Ao6WJOrDRWXrRE6Oj4a4aFJ7jNwjkiVu9qlLMYvITVz283iVEMNH-ZLkz20PNSVnYp2NrmerSkLA&_sg%5B1%5D=6D_LcuIzu2lNORB8BE1u5DTX999CFroyCPRDJ_Wsv2OzpCEfh14z1L4LafpIhPbTyP_v0YEZzf1SKcUEWwGUHd3X8h2XvoMkOqrlBeG1PKqw.mBu0kW5356Ao6WJOrDRWXrRE6Oj4a4aFJ7jNwjkiVu9qlLMYvITVz283iVEMNH-ZLkz20PNSVnYp2NrmerSkLA&_iepl="
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,9 +54,7 @@ url_source = ""
 #[[url_custom]]
 #name = "Journal"
 #url = "https://link.springer.com/article/10.1007/s10584-014-1174-4"
-- icon: cv
-  icon_pack: ai
-  link: files/cv
+
 
 # Does the content use math formatting?
 math = true
