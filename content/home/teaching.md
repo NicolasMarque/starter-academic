@@ -69,8 +69,8 @@ subtitle = ""
 
 
 <h4> Past Teachings at Potsdam University: </h4>
-+ PDE *(Summer 2020)*
-*PDE for Master 2 students, tutoring.
++  PDE *(Summer 2020)*
+*  PDE for Master 2 students, tutoring.
 
 
 <h4> Past Teachings at Université de Paris: </h4>
