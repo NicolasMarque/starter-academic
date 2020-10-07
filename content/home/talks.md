@@ -68,3 +68,30 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+
++ Speaker at the *International Meeting on Lorentzian Geometry*   *(Scheduled Feb 2021)*
+  * Conformal Gauss map and Applications.
+
+
++ Speaker for the *Geometry Seminar* in *Melbourne*  *(Feb 2020)*
+  * Geometry of the conformal Gauss map.
+  
+ + Speaker for the *Differential Geometry Seminar* in *Potsdam*  *(Nov 2019)*
+     * An exploration of Willmore Bubbling.
+     
++ Speaker for the *Differential Geometry Seminar* in *Nancy* *(Nov 2019)* 
+  * An exploration of Willmore Bubbling.
+  
++  Speaker for the *Geometry Seminar* in *Brussels* *(Oct 2019)*
+     * On the Compactness of Willmore Immersions.
+  
+ + Speaker for the *Geometry Seminar* in *Paris*   *(Oct 2019)*
+     * On the Compactness of Willmore Immersions.
+
++ Speaker at the *1st Joint Meeting Brazil-France in Mathematics* in *Rio de Janeiro* *(July 2019)*
+  *An exploration of Willmore Bubbling.
+  
++ Speaker for the *Geometry Seminar* in *Fortaleza* *(July 2019)*
+  *An exploration of Willmore Bubbling.
+
