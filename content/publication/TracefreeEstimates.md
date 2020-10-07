@@ -67,7 +67,3 @@ highlight = true
 image = "ftl.png"
 #caption = "My caption :smile:"
 
-+++
-A data-driven method to reduce training sample size to mitigate careful model tuning required when using transfer learning for Alzheimer's disease classification.  
-
-In *IEEE Access*, 2019. 
