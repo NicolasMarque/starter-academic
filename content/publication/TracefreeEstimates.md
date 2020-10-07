@@ -67,3 +67,7 @@ highlight = true
 image = "ftl.png"
 #caption = "My caption :smile:"
 
++++
+An intrinsic $\varepsilon$-regularity for the tracefree curvature of Willmore immersions. We apply it to  show gap lemmas and  a Lorentz estimates for minimal surfaces in the de Sitter space.
+
+Prepring, 2020.
