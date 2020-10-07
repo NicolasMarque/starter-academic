@@ -54,6 +54,9 @@ url_source = ""
 #[[url_custom]]
 #name = "Journal"
 #url = "https://link.springer.com/article/10.1007/s10584-014-1174-4"
+- icon: cv
+  icon_pack: ai
+  link: files/cv
 
 # Does the content use math formatting?
 math = true
