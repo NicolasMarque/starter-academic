@@ -1,5 +1,5 @@
 +++
-title = "An -regularity result with mean curvature control for Willmore immersions and application to minimal bubbling "
+title = "An epsilon regularity result with mean curvature control for Willmore immersions and application to minimal bubbling "
 date = "2019-04-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
