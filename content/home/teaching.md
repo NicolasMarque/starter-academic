@@ -67,17 +67,24 @@ subtitle = ""
  css_class = ""
 +++
 
-Past TA-ships at Ryerson University:
-<h4> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h4>
+Past Teachings at Potsdam University:
+<h4> Department of Mathematics </h4>
++ PDE   *(Summer 2020)*
+  * PDE for Master 2 students, coursestutoring.
+ 
 
-+ ELE202 - Electric Circuit Analysis  *(Winter 2018, 2019)*
-  * Lab bench
-+ BME802 - Human Computer Interaction *(Winter 2018)* 
-  * MATLAB
-+ ELE532 - Signals and Systems 1    *(Fall 2017)*
-  * MATLAB
+Past Teachings at Université de Paris:
+<h4> Department of Mathematics </h4>
 
-<h4> Masters of Digital Media (MDM) </h4>
++ MRM1   *(Fall 2019)*
+  * Mathematics and logic for 1st year students, courses and tutoring.
+  + MM4  *(Spring 2018)*
+  * Mathematics and logic for 2nd year students, "colles" sessions.
++ Measure theory and Integration *(Fall 2017, 2018, Spring 2020)* 
+  * Measure theory for third year students, tutoring.
++  MM2   *(Spring 2017)*
+  * Analysis for first year students, tutoring.
+  + RM1   *(Fall 2016, 2018)*
+  * Logic for first year students, tutoring.
 
-+ DG8002 - Digital Media Environments *(Fall 2018)*
-  * HTML, CSS, JavaScript, Python
+
