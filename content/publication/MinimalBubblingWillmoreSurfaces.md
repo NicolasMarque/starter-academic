@@ -47,7 +47,9 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://doi.org/10.1093/imrn/rnaa079"
+url_source = ""
+url_doi="https://doi.org/10.1093/imrn/rnaa079"
+url_sourcedocument="https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnaa079/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
