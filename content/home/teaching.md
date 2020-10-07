@@ -84,9 +84,9 @@ subtitle = ""
   * Measure theory for third year students, tutoring.
   
 +  MM2   *(Spring 2017)*
-  * Analysis for first year students, tutoring.
+     * Analysis for first year students, tutoring.
   
  + RM1   *(Fall 2016, 2018)*
-  * Logic for first year students, tutoring.
+     * Logic for first year students, tutoring.
 
 
