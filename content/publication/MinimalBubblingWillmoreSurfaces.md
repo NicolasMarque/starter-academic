@@ -40,14 +40,14 @@ featured = true
 
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/1906.00248.pdf"
-url_preprint = ""
+url_preprint = "https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnaa079/"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://doi.org/10.1093/imrn/rnaa079"
 url_doi="https://doi.org/10.1093/imrn/rnaa079"
 url_sourcedocument="https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnaa079/"
 
