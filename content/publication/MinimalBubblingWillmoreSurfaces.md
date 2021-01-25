@@ -18,8 +18,8 @@ authors = ["Nicolas Marque"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IMRN, 2020"
-#publication_short = "ISBI"
+publication = "International Mathematical Research Notices"
+publication_short = "IMRN"
 
 # Abstract and optional shortened version.
 
