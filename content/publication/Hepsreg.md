@@ -18,8 +18,8 @@ authors = ["Nicolas Marque"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-#publication = "IEEE Access."
-#publication_short = "ISBI"
+#publication = "Accepted at Annales de l'Institut Fourier"
+#publication_short = "AIF"
 
 # Abstract and optional shortened version.
 
