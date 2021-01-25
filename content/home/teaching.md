@@ -67,6 +67,15 @@ subtitle = ""
  css_class = ""
 +++
 
+<h4> Current Teachings at Potsdam University: </h4>
+
++ PDE1   *(Winter 2020)*
+  * PDE for Master 2 students, tutoring.
+  
+ + Analysis I   *(Winter 2020)*
+  * Analysis for bachelor students, tutoring.
+
+
 <h4> Past Teachings at Potsdam University: </h4>
 
 + PDE2   *(Summer 2020)*
