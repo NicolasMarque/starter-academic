@@ -72,8 +72,8 @@ subtitle = ""
 + PDE1   *(Winter 2020)*
   * PDE for Master 2 students, tutoring.
   
- + Analysis I   *(Winter 2020)*
-    * Analysis for bachelor students, tutoring.
++ Analysis I   
+   *(Winter 2020)** Analysis for bachelor students, tutoring.
 
 
 <h4> Past Teachings at Potsdam University: </h4>
