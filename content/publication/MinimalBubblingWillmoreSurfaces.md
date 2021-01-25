@@ -18,7 +18,7 @@ authors = ["Nicolas Marque"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-#publication = "IEEE Access."
+publication = "IMRN, 2020"
 #publication_short = "ISBI"
 
 # Abstract and optional shortened version.
