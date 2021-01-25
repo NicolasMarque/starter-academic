@@ -69,8 +69,10 @@ subtitle = ""
  css_class = ""
 +++
 
++ Speaker a the *1st Geometric Analysis Festival* *(Feb 2021)*
+  * Willmore Energy, Willmore surfaces, Willmore Bubbling.
 
-+ Speaker at the *International Meeting on Lorentzian Geometry*   *(Scheduled Feb 2021)*
++ Speaker (Short talk) at the *International Meeting on Lorentzian Geometry*   *(Feb 2021)*
   * Conformal Gauss map and Applications.
 
 
