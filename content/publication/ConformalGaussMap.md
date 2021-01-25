@@ -18,7 +18,7 @@ authors = ["Nicolas Marque"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Potential Analysis."
+publication = "Potential Analysis"
 #publication_short = "PotAn"
 
 # Abstract and optional shortened version.
