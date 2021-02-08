@@ -41,7 +41,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: files/cv
+  link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
   link: "mailto:nicolas.marque@uni-potsdam.de"  # For a direct email link, use "mailto:test@example.org".
