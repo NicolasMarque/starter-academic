@@ -70,7 +70,7 @@ subtitle = ""
 <h4> Current Teachings at Potsdam University: </h4>
 
 + Mean curvature problems in Euclidean space   *(Summer 2021)*
-  * Geometric analysis for Master 2 students, lectures and tutoring. url_pdf = "https://github.com/NicolasMarque/starter-academic/blob/master/static/files/lecture%20notes.pdf"
+  * Geometric analysis for Master 2 students, lectures and tutoring. 
  
 
 
