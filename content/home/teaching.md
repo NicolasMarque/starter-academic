@@ -71,9 +71,7 @@ subtitle = ""
 
 + Mean curvature problems in Euclidean space   *(Summer 2021)*
   * Geometric analysis for Master 2 students, lectures and tutoring
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+
  
 
 
