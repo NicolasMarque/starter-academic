@@ -71,6 +71,15 @@ subtitle = ""
 
 + Mean curvature problems in Euclidean space   *(Summer 2021)*
   * Geometric analysis for Master 2 students, lectures and tutoring
+  <html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= https://github.com/NicolasMarque/starter-academic/raw/master/static/files/lecture%20notes.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html> 
 
  
 
