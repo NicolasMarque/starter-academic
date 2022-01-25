@@ -39,7 +39,7 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = " https://arxiv.org/pdf/2102.00545.pdf"
+url_pdf = "https://arxiv.org/pdf/2102.00545.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
