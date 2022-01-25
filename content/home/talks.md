@@ -68,8 +68,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
++ Speaker at the *PDE seminar* *(Jan 2022)*
+  * On geometric critical PDEs.
+ 
++ Speaker at the *Geometric Analysis, Differential Geometry and Relativity* *(Nov 2021)*
+  * Perspectives on Willmore surfaces.
 
-+ Speaker a the *1st Geometric Analysis Festival* *(Feb 2021)*
++ Speaker at the *1st Geometric Analysis Festival* *(Feb 2021)*
   * Willmore Energy, Willmore surfaces, Willmore Bubbling.
 
 + Speaker (Short talk) at the *International Meeting on Lorentzian Geometry*   *(Feb 2021)*
