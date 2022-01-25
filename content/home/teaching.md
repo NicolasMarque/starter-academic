@@ -69,14 +69,16 @@ subtitle = ""
 
 <h4> Current Teachings at Potsdam University: </h4>
 
-+ Mean curvature problems in Euclidean space   *(Summer 2021)*
-  * Geometric analysis for Master 2 students, lectures and tutoring <a href="static/files/lecturenotes.pdf" class="image fit"></a>
++ Analysis III   *(Winter 2021)*
+  * Analysis for bachelor students, tutoring.
   
 
  
 
 
 <h4> Past Teachings at Potsdam University: </h4>
++ Mean curvature problems in Euclidean space   *(Summer 2021)*
+  * Geometric analysis for Master 2 students, lectures and tutoring <a href="static/files/lecturenotes.pdf" class="image fit"></a>
 
 + PDE1   *(Winter 2020)*
   * PDE for Master 2 students, tutoring.
