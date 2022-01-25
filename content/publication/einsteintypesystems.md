@@ -68,8 +68,6 @@ image = "ftl.png"
 #caption = "My caption :smile:"
 
 +++
-In the present paper, we study the coupled Einstein Constraint Equations (ECE) on complete manifolds through the conformal method, focusing on non-compact manifolds with flexible asymptotics. In particular, we do not impose any specific model for infinity. First, we prove an existence criteria on compact manifolds with boundary which applies to more general systems and can be seen as a natural extension of known existence theory for the coupled ECE. Building on this, we prove an L^p existence based on existence of appropriate barrier functions for a family of physically well-motivated coupled systems on complete manifolds. We prove existence results for these systems by building barrier functions in the bounded geometry case. We conclude by translating our result to the H^s formulation, making contact with classic works. To this end, we prove several intermediary L^2 regularity results for the coupled systems in dimensions n \le 12 which fills certain gaps in current initial data analysis.
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
+In the present paper, we study the coupled Einstein Constraint Equations (ECE) on complete manifolds through the conformal method, focusing on non-compact manifolds with flexible asymptotics. In particular, we do not impose any specific model for infinity. First, we prove an existence criteria on compact manifolds with boundary which applies to more general systems and can be seen as a natural extension of known existence theory for the coupled ECE. Building on this, we prove an Lp existence based on existence of appropriate barrier functions for a family of physically well-motivated coupled systems on complete manifolds. We prove existence results for these systems by building barrier functions in the bounded geometry case. We conclude by translating our result to the H^s formulation, making contact with classic works. To this end, we prove several intermediary L2 regularity results for the coupled systems in dimensions n <13 which fills certain gaps in current initial data analysis.
+
+Preprint, 2022.
