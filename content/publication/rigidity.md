@@ -1,6 +1,6 @@
 +++
 title = "Rigidity Theorems for Asymptotically Euclidean Q-singular Spaces"
-date = "2022-01-20"
+date = "2022-04-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
