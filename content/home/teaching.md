@@ -69,7 +69,7 @@ subtitle = ""
 
 <h4> Current Teachings at Potsdam University: </h4>
 
-+ Analysis III   *(Winter 2021)*
++ Analysis IV   *(Summer 2022)*
   * Analysis for bachelor students, tutoring.
   
 
@@ -77,6 +77,10 @@ subtitle = ""
 
 
 <h4> Past Teachings at Potsdam University: </h4>
+
++ Analysis III   *(Winter 2021)*
+  * Analysis for bachelor students, tutoring.
+
 + Mean curvature problems in Euclidean space   *(Summer 2021)*
   * Geometric analysis for Master 2 students, lectures and tutoring <a href="static/files/lecturenotes.pdf" class="image fit"></a>
 
