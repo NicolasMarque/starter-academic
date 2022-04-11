@@ -68,7 +68,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-+ Speaker at the *PDE seminar* *(Jan 2022)*
++ Speaker at the *PDE seminar* in *Lyon* *(Mar 2022)*
+  * On geometric critical PDEs.
+
++ Speaker at the *Geometry seminar* in *Nantes* *(Mar 2022)*
+  * Fourth order Energies
+
++ Speaker at the *Geometry seminar* in *Tours* *(Mar 2022)*
+  * On geometric PDEs and mean curvature problems.
+
++ Speaker at the *PDE seminar* in *Nancy* *(Jan 2022)*
   * On geometric critical PDEs.
  
 + Speaker at the *Geometric Analysis, Differential Geometry and Relativity* *(Nov 2021)*
