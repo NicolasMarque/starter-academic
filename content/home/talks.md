@@ -68,6 +68,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
++ Speaker at the *Contraintes de Courbure des Espaces Métriques* in *Nancy* *(Sept 2022)*
+  * Concentration-compacité des surfaces de Willmore.
+
 + Speaker at the *PDE seminar* in *Lyon* *(Mar 2022)*
   * On geometric critical PDEs.
 
