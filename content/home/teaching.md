@@ -67,16 +67,20 @@ subtitle = ""
  css_class = ""
 +++
 
-<h4> Current Teachings at Potsdam University: </h4>
+<h4> Current Teachings at Université de Lorraine: </h4>
 
-+ Analysis IV   *(Summer 2022)*
-  * Analysis for bachelor students, tutoring.
++ Fondements Mathématiques  *(Winter 2022)*
+  * * Basic mathematics and logic for 1st year students, courses and tutoring.
   
-
++ L2 SI  *(Winter 2022)*
+  * * Mathematics for 1nd year engineering students, courses and tutoring.
  
 
 
 <h4> Past Teachings at Potsdam University: </h4>
+
++ Analysis IV   *(Summer 2022)*
+  * Analysis for bachelor students, tutoring.
 
 + Analysis III   *(Winter 2021)*
   * Analysis for bachelor students, tutoring.
