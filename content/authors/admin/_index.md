@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Maître de Conférences
 
 # Organizations/Affiliations
 organizations:
-- name: Potsdam Universität
-  url: "https://www.math.uni-potsdam.de/"
+- name: Institut Elie Cartan de Lorraine
+  url: "https://iecl.univ-lorraine.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,7 +44,7 @@ social:
   link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
-  link: "mailto:nicolas.marque@uni-potsdam.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:nicolas.marque@univ-lorraine.fr"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
  # icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
@@ -72,6 +72,7 @@ highlight_name: false
 ---
 
 
-I am a postdoctoral researcher at the Institut für Mathematik of Potsdam University, in the PDE team led by Prof. Dr. [Jan Metzger](https://www.math.uni-potsdam.de/professuren/pde/personen/prof-dr-jan-metzger/). 
+I am a Maître de Conférences at the Elie Cartan Institute of Lorraine, in the [Geometry](https://iecl.univ-lorraine.fr/recherche/geometrie/geometrie-presentation/).
 
-My PhD dealt with the compactness of Willmore surfaces and was done under the supervision of [Paul Laurain](https://paullaurain.weebly.com/#). The defense took place in December 2019 in the Université de Paris.
+My PhD dealt with the compactness of Willmore surfaces and was done under the supervision of [Paul Laurain](https://paullaurain.weebly.com/#). The defense took place in December 2019 in the Université de Paris. I was a postdoc student in the Institute for Mathematics in Potsdam, under the supervision of Prof. Dr. [Jan Metzger](https://www.math.uni-potsdam.de/professuren/pde/personen/prof-dr-jan-metzger/). 
+
