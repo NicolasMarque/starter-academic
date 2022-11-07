@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "nicolas.marque(at)uni-potsdam.de"
+email = "nicolas.marque(at)univ-lorraine.fr"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Potsdam OT Golm", region = "", postcode = "", country = "", country_code = "DE"}
+address = {street = "Bureau 327, Institut Elie Cartan de Lorraine, Faculté des Sciences et Technologies Campus, Boulevard des Aiguillettes", city = "Vandœuvre-lès-Nancy", region = "", postcode = "54506", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
