@@ -70,10 +70,10 @@ subtitle = ""
 <h4> Current Teachings at Université de Lorraine: </h4>
 
 + Fondements Mathématiques  *(Winter 2022)*
-  * * Basic mathematics and logic for 1st year students, courses and tutoring.
+   * Basic mathematics and logic for 1st year students, courses and tutoring.
   
 + L2 SI  *(Winter 2022)*
-  * * Mathematics for 1nd year engineering students, courses and tutoring.
+   * Mathematics for 1nd year engineering students, courses and tutoring.
  
 
 
